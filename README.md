@@ -1,15 +1,19 @@
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=random&fontColor=FFFFFF&text=👋%20Developer%20JinHeyok%20👋)
+
+<!--
 <div align=center>
   ##👋 Hi I'm Junior Developer JinHeyok 👋
-    ![header](https://capsule-render.vercel.app/api?type=Cylinder)
 </div>
+-->
 <div align=center>
-    
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+
 </div>
 
-
+- - -
 <div align=center>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinHeyok&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api?username=JinHeyok&show_icons=true&theme=radical&count_private=true&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinHeyok&layout=compact&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=JinHeyok&show_icons=true&theme=highcontrast&count_private=true&show_icons=true">
 </div>
 
 <!--
