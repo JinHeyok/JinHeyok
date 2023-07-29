@@ -1,7 +1,7 @@
 ###👋 Hi I'm Junior Developer JinHeyok 👋  
 <div align=center>  
-  <img src="https://github-readme-stats.vercel.app/api?username=JinHeyok&show_icons=true&theme=radical&count_private=true&show_icons=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinHeyok&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=JinHeyok&show_icons=true&theme=radical&count_private=true&show_icons=true">
 </div>
 
 <!--
