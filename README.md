@@ -41,9 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinHeyok&layout=compact&theme=dark">
   <img src="https://github-readme-stats.vercel.app/api?username=JinHeyok&show_icons=true&theme=highcontrast&count_private=true&show_icons=true">
 </div>
-<div align=center>
-  <img src="https://starchart.cc/JinHeyok/{repo}.svg">
-</div>
 
 <!--
 **JinHeyok/JinHeyok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
