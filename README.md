@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=random&fontColor=FFFFFF&text=👋%20Developer%20JinHeyok%20👋)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=random&fontColor=FFFFFF&text=👋%20Developer%20JinHyeok%20👋)
 
 <!--
 <div align=center>
