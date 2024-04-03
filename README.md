@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 </div>
 
+
 - - -
 <div align=center>  
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinHeyok&layout=compact&theme=dark"> -->
