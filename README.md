@@ -2,14 +2,9 @@
 <div align=center>
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=Heyok">
 </div>
-<!--
-<div align=center>
-  ##👋 Hi I'm Junior Developer JinHyeok 👋
-뱃지 출처 
-- https://github.com/alexandresanlim/Badges4-README.md-Profile
 
-</div>
--->
+- - - 
+
 ### <div align=center> 🧑🏻‍💻 Tech Stack 🧑🏻‍💻 </div>
 <hr>
 <div align=center>
