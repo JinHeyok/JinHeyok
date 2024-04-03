@@ -42,6 +42,7 @@
 <div align=center>  
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinHeyok&layout=compact&theme=dark"> -->
   <img src="https://mazassumnida.wtf/api/generate_badge?boj=Heyok"><br/>
+  <img src="http://mazandi.herokuapp.com/api?handle=Heyok&theme=dark"/><br>
   <img src="https://github-readme-stats.vercel.app/api?username=JinHeyok&show_icons=true&theme=highcontrast&count_private=true&show_icons=true">
 </div>
 
