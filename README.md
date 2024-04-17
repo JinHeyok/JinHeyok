@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=random&fontColor=FFFFFF&text=👋%20Developer%20JinHyeok%20👋)
-<div align=center>
+<!-- <div align=center>
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=Heyok">
 </div>
+-->
 
 - - - 
 
