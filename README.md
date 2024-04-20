@@ -50,6 +50,7 @@
 <div align=center>
   <p>☁️ Cloud ☁️</p>
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+      <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
 </div>
 <br>
 <br>
