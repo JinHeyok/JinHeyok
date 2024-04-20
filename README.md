@@ -82,7 +82,7 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid">
   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
-  <img src="https://img.shields.io/badge/#000000?style=for-the-badge&logo=DataGrip&logoColor=white">
+  <img src="https://img.shields.io/badge/DataGrip-#000000?style=for-the-badge&logo=DataGrip&logoColor=white">
 
 </div>
 
