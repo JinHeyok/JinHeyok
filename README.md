@@ -4,6 +4,7 @@
 </div>
 
 <!-- https://github.com/Envoy-VC/awesome-badges -->
+<!-- https://simpleicons.org/ -->
 - - - 
 
 ### <div align=center> 🧑🏻‍💻 Tech Stack 🧑🏻‍💻 </div>
@@ -91,7 +92,7 @@
 <div align=center> 
   <p>✨ IDE ✨ </p>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  <img src="https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=datagrip&logoColor=white&color=black&labelColor=darkorchid">
+  <img src="https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=datagrip&logoColor=white&color=black&labelColor=03EF62">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid">
