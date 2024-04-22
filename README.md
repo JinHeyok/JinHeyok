@@ -103,7 +103,7 @@
 </div>
 
 - - -
-<div align=center padding-bottom=20px>  
+<div align=center>  
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinHeyok&layout=compact&theme=dark"> -->
 <!--   <img src="https://mazassumnida.wtf/api/generate_badge?boj=Heyok"> -->
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Heyok"> &nbsp;&nbsp;&nbsp;
