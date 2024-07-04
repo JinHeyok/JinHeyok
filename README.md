@@ -92,6 +92,7 @@
   <br>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Obsidian-#7C3AED?style=for-the-badge&logo=obsidian&logoColor=white">
 </div>
 <br>
 <br>
