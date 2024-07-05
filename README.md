@@ -116,7 +116,7 @@
   <img src="http://mazandi.herokuapp.com/api?handle=Heyok&theme=dark"/><br>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=JinHeyok&show_icons=true&theme=highcontrast&count_private=true&show_icons=true"> -->
   <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/JinHeyok"/>
+  <img src="https://render.gitanimals.org/lines/jinHeyok?pet-id=1"/>
 </a>
 </div>
 
