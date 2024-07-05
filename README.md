@@ -107,11 +107,11 @@
   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
   <img src="https://img.shields.io/badge/Termius-navy?style=for-the-badge&logo=termius&logoColor=white">
 </div>
-
+<!--
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/jinHeyok?pet-id=1"/>
 </a>
-
+-->
 - - -
 <div align=center>  
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinHeyok&layout=compact&theme=dark"> -->
