@@ -108,6 +108,10 @@
   <img src="https://img.shields.io/badge/Termius-navy?style=for-the-badge&logo=termius&logoColor=white">
 </div>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/jinHeyok?pet-id=1"/>
+</a>
+
 - - -
 <div align=center>  
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinHeyok&layout=compact&theme=dark"> -->
@@ -115,9 +119,6 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Heyok"> &nbsp;&nbsp;&nbsp;
   <img src="http://mazandi.herokuapp.com/api?handle=Heyok&theme=dark"/><br>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=JinHeyok&show_icons=true&theme=highcontrast&count_private=true&show_icons=true"> -->
-  <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/jinHeyok?pet-id=1"/>
-</a>
 </div>
 
 <!--
