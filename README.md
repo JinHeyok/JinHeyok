@@ -134,16 +134,14 @@
     width="400"
     height="100"
   />
-  
-</a>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
+    <img
     src="https://render.gitanimals.org/lines/JinHeyok?pet-id=609442576146737347"
     width="400"
     height="100"
   />
 </a>
+
+
   
   
   
