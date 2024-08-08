@@ -120,8 +120,8 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/JinHeyok?pet-id=609442697408262186"
-    width="400"
-    height="100"
+    width="800"
+    height="120"
   />
   <!--
     <img
