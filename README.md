@@ -119,11 +119,16 @@
   
 <a href="https://github.com/devxb/gitanimals">
   <img
+    src="https://render.gitanimals.org/lines/JinHeyok?pet-id=631092171685589585"
+    width="600"
+    height="120"
+  />  
+  <!--
+    <img
     src="https://render.gitanimals.org/lines/JinHeyok?pet-id=609442697408262186"
     width="800"
     height="120"
   />
-  <!--
     <img
     src="https://render.gitanimals.org/lines/JinHeyok?pet-id=609442708560912834"
     width="400"
@@ -157,6 +162,7 @@
   
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinHeyok&layout=compact&theme=dark"> -->
 <!--   <img src="https://mazassumnida.wtf/api/generate_badge?boj=Heyok"> -->
+
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Heyok"> &nbsp;&nbsp;&nbsp;
   <img src="http://mazandi.herokuapp.com/api?handle=Heyok&theme=dark"/><br>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=JinHeyok&show_icons=true&theme=highcontrast&count_private=true&show_icons=true"> -->
