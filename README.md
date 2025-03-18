@@ -20,7 +20,7 @@
 
 ### <div align=center> 🧑🏻‍💻 Tech Stack 🧑🏻‍💻 </div>
 
-<hr>
+<h1></h1>
 
 <div align=center>
 
@@ -127,7 +127,8 @@
 </a>
 -->
 
-- - -
+<h1></h1>
+
 
 <div align=center>  
   
