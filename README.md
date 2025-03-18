@@ -6,18 +6,18 @@
   <p align="center">
       <h1 align="center">✩&emsp;Jin Hyeok&emsp;✩</h1>
   </p>
+  <p align="center">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Backend+Developer+;Welcome+to+my+profile!&font=Fira%20Code&color=%15998428&center=true&width=280&height=50">
+  </p>
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Backend+Developer+;Welcome+to+my+profile!&font=Fira%20Code&color=%15998428&center=true&width=280&height=50">
-</p>
 <br>
+
 <div align=center>
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=Heyok">
 </div>
 
 <!-- https://github.com/Envoy-VC/awesome-badges -->
 <!-- https://simpleicons.org/ -->
-- - - 
 
 ### <div align=center> 🧑🏻‍💻 Tech Stack 🧑🏻‍💻 </div>
 
